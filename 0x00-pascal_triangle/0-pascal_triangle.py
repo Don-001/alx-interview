@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+
 def pascals_triangle(n):
     triangle = [[1]]
     for i in range(n-1):
